@@ -15,7 +15,7 @@ struct ContentView: View {
                 Image("avocado")
                     .resizable()
                     .scaledToFit()
-                    .frame(width: 303, height: 300)
+                    .frame(width: 300, height: 300)
                 
                 Text("We deliver\n grocery at your\n doorstep")
                     .font(.system(size: 42, weight: .bold, design: .rounded))
