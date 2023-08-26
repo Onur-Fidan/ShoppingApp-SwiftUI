@@ -1,7 +1,7 @@
 # ShoppingApp-SwiftUI
 
 
-Food shopping app built using SwiftUI
+Food shopping app built by using SwiftUI
 
 
 <img width="425" alt="1" src="https://github.com/Onur-Fidan/ShoppingApp-SwiftUI/assets/97627723/d31467ed-d3ea-4eca-b938-3e5039591c50">
