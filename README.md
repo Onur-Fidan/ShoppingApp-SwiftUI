@@ -1,5 +1,5 @@
 # ShoppingApp-SwiftUI
 
 
-Furniture shopping app built using SwiftUI
+Food shopping app built using SwiftUI
 
